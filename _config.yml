@@ -1,1 +1,15 @@
-theme: jekyll-theme-tactile
+# User config
+author: "The Mayhem Project"
+tagline: ""
+description: "An NFT collection."
+keywords: "NFT, Mayhem"
+email: "themayhemproject@pm.me"
+twitter: "https://twitter.com/MayhemASA"
+github: "https://github.com/themayhemproject"
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
